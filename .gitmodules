@@ -1,0 +1,11 @@
+[submodule "C语言"]
+	path = C语言
+	url = https://github.com/CodecStack/codec-note.git
+[submodule "测试"]
+	path = 测试
+	url = https://github.com/CodecStack/codec-note.git
+	branch = c语言
+[submodule "测试1"]
+	path = 测试1
+	url = https://github.com/CodecStack/codec-note.git
+	branch = c语言
