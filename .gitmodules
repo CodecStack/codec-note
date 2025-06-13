@@ -9,3 +9,7 @@
 	path = 测试1
 	url = https://github.com/CodecStack/codec-note.git
 	branch = c语言
+[submodule "测试2"]
+	path = 测试2
+	url = https://github.com/CodecStack/codec-note.git
+	branch = c语言
